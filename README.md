@@ -4,7 +4,7 @@
 I'm Rawan! A computer science graduate from the American University of Bahrain (AUBH) who is highly motivated, determined, and can quickly integrate into the work environment, seeking to leverage my academic background and skills.
 
 # 🌐 Contact me via:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:rawanalbinzayed@outlook.com)
+[![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rawanalbinzayed@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/rawan-albinzayed-032a181a1/)
 
 # 💻 Technical Skills:
