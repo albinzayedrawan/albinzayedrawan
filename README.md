@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# 👤 About Me:
 I'm Rawan! A computer science graduate from the American University of Bahrain (AUBH) who is highly motivated, determined, and can quickly integrate into the work environment, seeking to leverage my academic background and skills.
 
 # 🌐 Contact me via:
