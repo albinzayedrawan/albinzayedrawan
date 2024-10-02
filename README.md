@@ -35,9 +35,6 @@ I'm Rawan! A computer science graduate from the American University of Bahrain (
   <!-- MATLAB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" />
   
-  <!-- x86 Assembly -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="x86 Assembly" />
-  
   <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   
