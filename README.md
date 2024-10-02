@@ -77,12 +77,6 @@ I'm Rawan! A computer science graduate from the American University of Bahrain (
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
   
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="40" height="40" alt="SQL" />
-  
-  <!-- Thunder Client -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thunderbird/thunderbird-original.svg" width="40" height="40" alt="Thunder Client" />
-  
   <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
   
