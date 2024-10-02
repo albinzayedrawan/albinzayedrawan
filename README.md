@@ -56,8 +56,8 @@ I'm Rawan! A computer science graduate from the American University of Bahrain (
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   
-  <!-- JWT -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" width="40" height="40" alt="JWT" />
+  <!-- Axios -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" height="40" alt="JWT" />
   
   <!-- NPM -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM" />
