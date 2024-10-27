@@ -107,6 +107,9 @@ I'm Rawan! A computer science graduate from the American University of Bahrain (
   <!-- macOS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="macOS" />
   
+  <!-- x86 Assembly -->
+  <img src="https://img.icons8.com/?size=100&id=55186&format=png&color=000000" width="40" height="40" alt="x86 Assembly" />
+  
 </p>
 
 # 📊 GitHub Stats:
