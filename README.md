@@ -109,7 +109,10 @@ I'm Rawan! A computer science graduate from the American University of Bahrain (
   
   <!-- x86 Assembly -->
   <img src="https://img.icons8.com/?size=100&id=55186&format=png&color=000000" width="40" height="40" alt="x86 Assembly" />
-  
+
+  <!-- Cypress -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" height="40" alt="Cypress" />
+ 
 </p>
 
 # 📊 GitHub Stats:
