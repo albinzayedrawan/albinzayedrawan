@@ -2,7 +2,7 @@
 
 I'm Rawan! A computer science graduate from the American University of Bahrain (AUBH) who is highly motivated, determined, and can quickly integrate into the work environment, seeking to leverage my academic background and skills.
 
-# 💻 Technical Skills:
+# 💻 Technical Skills
 
 <p align="left">
   <!-- C -->
@@ -121,6 +121,8 @@ I'm Rawan! A computer science graduate from the American University of Bahrain (
  
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=albinzayedrawan&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=albinzayedrawan&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albinzayedrawan&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
